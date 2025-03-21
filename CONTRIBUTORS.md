@@ -4,6 +4,7 @@
  * [Prince Nkem konwea](https://github.com/prince-konwea)
  * [Jeremiah Samuel](https://github.com/livinalt)
   * [WENG LUKA](https://github.com/wengluka)
+  * [philemon abel](https://github.com/abelphilz)
   * [victor ifeanyi ezeabikwa](https://github.com/Vjfrontend)
    * [ Dako ishaku](https://github.com/Dakoishaku69)
   * [Mandyang sunday solomon](https://github.com/mandyang-sunday)
@@ -12,4 +13,4 @@
   * [Unubi Mercy Ojomah](https://github.com/Omah-Mercy05/start-here-guidelines)
   * [Longji Paul Benshak](https://github.com/Leeyung1)
 * [SOLOMON Drambi](http://github.com/SUNDISKI)
-* [Elijah Simon](http://github.com/Eli4545)
+* [Elijah Simon](http://github.com/Eli4545)git status
